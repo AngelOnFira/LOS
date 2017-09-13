@@ -1,0 +1,1 @@
+qemu-system-x86_64 -cdrom Build/LOS.iso -m 512
